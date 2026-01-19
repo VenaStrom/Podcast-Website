@@ -1,6 +1,6 @@
 # Podcast Website
 
-Hosted via [GitHub Pages](https://viggostrom.github.io/Podcast-Website/).
+Hosted via [GitHub Pages](https://VenaStrom.github.io/Podcast-Website/).
 
 ![Screenshot](screenshots/landing-page.png)
 ![Screenshot](screenshots/episodes-page.png)
